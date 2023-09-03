@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can TuneHub recommend me songs?",
+        "answer": "TuneHub's AI can read your mind! Just kidding, we are not there yet. TuneHub recommends you songs based on your interests and mood."
+    },
+    {
+        "question":"What is the main feature of TuneHub?",
+        "answer": "The main feature of TuneHub is that it gives you the best recommendation according to your taste. You can decide what you listen to whenever and wherever you are. You stay up to date with the trending songs and also make best use of the recommendation feature through the reviews."
+    },
+    {
+        "question":"What makes TuneHub different from other existing applications?",
+        "answer": "TuneHub provides integrations with applications like Spotify. Spotify's personalized dashboard allows you to track what you have been listening to recently!"
+    },
+    {
+        "question":"Is Spotify integration safe to use?",
+        "answer": "TuneHub uses Spotify's OAuth to get your data. Spotify does not share any personal information like your passowords with TuneHub! We only have the data that interests you."
+    },
+    {
+        "question":"Can I listen to music on TuneHub?",
+        "answer": "TuneHub currently does not provide the feature to listen to music. However, we do not know what awaits in the future!"
+    }
+]

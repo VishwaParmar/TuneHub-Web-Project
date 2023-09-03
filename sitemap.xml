@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Landing Page -->
+  <url>
+    <loc>https://tune-hub.netlify.app/</loc>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://tune-hub.netlify.app/faq</loc>
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://tune-hub.netlify.app/about-us</loc>
+  </url>
+
+  <!-- Contact Us -->
+  <url>
+    <loc>https://tune-hub.netlify.app/contact-us</loc>
+  </url>
+
+  <!-- Trivia -->
+  <url>
+    <loc>https://tune-hub.netlify.app/trivia</loc>
+  </url>
+
+  <!-- Leaderboard -->
+  <url>
+    <loc>https://tune-hub.netlify.app/leaderboard</loc>
+  </url>
+
+  <!-- User Profile -->
+  <url>
+    <loc>https://tune-hub.netlify.app/user/profile</loc>
+  </url>
+
+  <!-- Spotify Pages -->
+  <url>
+    <loc>https://tune-hub.netlify.app/spotify</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/spotify/top-songs</loc>
+  </url>
+   <url>
+    <loc>https://tune-hub.netlify.app/spotify/top-artists</loc>
+  </url>
+   <url>
+    <loc>https://tune-hub.netlify.app/spotify/recently-played</loc>
+  </url>
+ 
+
+  <!-- Admin Pages -->
+  <url>
+    <loc>https://tune-hub.netlify.app/admin</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/admin/addSong</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/admin/addArtist</loc>
+  </url>
+ 
+
+  <!-- My Favorites -->
+  <url>
+    <loc>https://tune-hub.netlify.app/my-favorites</loc>
+  </url>
+
+  <!-- Song Pages -->
+  <url>
+    <loc>https://tune-hub.netlify.app/song/1</loc>
+  </url>
+  
+
+  <!-- Search Pages -->
+  <url>
+    <loc>https://tune-hub.netlify.app/search/song</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/search/artist</loc>
+  </url>
+
+  <!-- User Authentication Pages -->
+  <url>
+    <loc>https://tune-hub.netlify.app/user/login</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/user/register</loc>
+  </url>
+  <url>
+    <loc>https://tune-hub.netlify.app/user/change-password</loc>
+  </url>
+  
+</urlset>
