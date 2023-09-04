@@ -3,8 +3,6 @@
 
 * *Date Created*: 08 August 2023
 * *Last Modification Date*: 08 August 2023
-* *Requirements URL*: <https://dal.brightspace.com/d2l/le/content/274269/viewContent/3608545/View>
-* *Git URL*: <https://git.cs.dal.ca/hppatel/csci-5709-grp-05>
 *  *Netlify Deployment URL*: <https://tune-hub.netlify.app/>
 *  *Render Deployment URL*: <https://tunehub-server.onrender.com>
 ## Authors
