@@ -8,11 +8,10 @@
 *  *Netlify Deployment URL*: <https://tune-hub.netlify.app/>
 *  *Render Deployment URL*: <https://tunehub-server.onrender.com>
 ## Authors
-
-* [Harsh Pranav Patel](hr979846@dal.ca) - *(Developer)*
-* [Preeti Sharma](pr233584@dal.ca) - *(Developer)*
 * [Dev Patel](dev.patel@dal.ca) - *(Developer)*
-* [Kainat Khan](Kainat@dal.ca) - *(Developer)*
+* [Harsh Pranav Patel](hr979846@dal.ca) - *(Developer)*
+*  [Kainat Khan](Kainat@dal.ca) - *(Developer)*
+* [Preeti Sharma](pr233584@dal.ca) - *(Developer)*
 * [Vishwa Pankajbhai Parmar](vs623903@dal.ca) - *(Developer)*
 
 ## Deployment
